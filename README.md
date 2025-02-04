@@ -33,8 +33,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/amandameneseso/amandameneseso/output/snake.svg" alt="Snake animation" />
-
-###
