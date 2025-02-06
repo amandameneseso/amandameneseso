@@ -95,7 +95,7 @@ Me chamo Amanda Meneses, tenho 26 anos. Sou apaixonada por tecnologia e em 2024 
     alt="GitHub Stats" 
     height="150"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandameneseso&layout=compact&theme=date_night&locale=pt-br&custom_title=Tecnologias mais usadas&langs_count=10" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandameneseso&layout=compact&theme=date_night&locale=pt-br&langs_count=10" 
 />
 </p>
 
