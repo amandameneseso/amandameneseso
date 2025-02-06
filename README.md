@@ -5,8 +5,6 @@
 
 Me chamo Amanda Meneses, tenho 26 anos. Sou apaixonada por tecnologia e em 2024 fiz uma transição de carreira de Enfermagem para TI. Esse é um espaço pra eu compartilhar um pouco da minha jornada resolvendo e criando problemas. :)
 
----
-
 ### 🤖 Linguagens e Tecnologias
 
 <img 
