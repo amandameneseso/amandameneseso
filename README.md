@@ -1,11 +1,15 @@
-# 👩🏻‍💻 Amanda Meneses
+#  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=735&height=100&lines=Oii%2C+eu+sou+a+Amanda!;Seja+bem-vindo(a)+ao+meu+perfil!!;Curioso(a)+para+saber+mais%3F+D%C3%A1+uma+olhada+(%EF%BD%A1%EF%BD%A5%E2%88%80%EF%BD%A5)%EF%BE%89%EF%BE%9E)](https://git.io/typing-svg)
+
+###
+
+> <em>"Trust the seeds you are planting!"</em>
 
 **`💻 Desenvolvedora Front-end`**
 **`📚 Sempre aprendendo!`**
 
 <!-- Me chamo Amanda Meneses, tenho 26 anos. Sou apaixonada por tecnologia e em 2024 fiz uma transição de carreira de Enfermagem para TI. Esse é um espaço pra eu compartilhar um pouco da minha jornada resolvendo e criando problemas. :) -->
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -75,11 +79,7 @@
 <br/>
 <br/>
 
-###
-
-> <em>"Trust the seeds you are planting!"</em>
-
-### 📊 Estatísticas
+### Estatísticas
 
 <p>
   <img 
@@ -97,5 +97,19 @@
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandameneseso&layout=compact&theme=date_night&locale=pt-br&langs_count=10" 
 />
-</p>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+### Contato
+
+<div>  
+  <a href="https://www.linkedin.com/in/rafaelaApOSantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/rafaelaApOSantos" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" target="_blank"></a> 
+</div> 
+
 
