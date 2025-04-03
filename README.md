@@ -1,4 +1,4 @@
-#  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=735&height=100&lines=Oii%2C+eu+sou+a+Amanda!;Seja+bem-vindo(a)+ao+meu+perfil!!;Curioso(a)+para+saber+mais%3F+D%C3%A1+uma+olhada+(%EF%BD%A1%EF%BD%A5%E2%88%80%EF%BD%A5)%EF%BE%89%EF%BE%9E)](https://git.io/typing-svg)
+#  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FFFFFF&vCenter=true&width=735&height=50&lines=Oii%2C+eu+sou+a+Amanda!;Seja+bem-vindo(a)+ao+meu+perfil!!;Curioso(a)+para+saber+mais%3F+D%C3%A1+uma+olhada+(%EF%BD%A1%EF%BD%A5%E2%88%80%EF%BD%A5)%EF%BE%89%EF%BE%9E)](https://git.io/typing-svg)
 
 ###
 
