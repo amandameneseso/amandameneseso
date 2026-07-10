@@ -191,6 +191,15 @@
 
 <img 
     align="left" 
+    alt="GitLab" 
+    title="GitLab"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg"
+/>
+
+<img 
+    align="left" 
     alt="Vercel" 
     title="Vercel"
     width="30px" 
